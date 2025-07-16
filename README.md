@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **a student at University of Toronto**
 - 👯 I'm studying in **Finance&economics, and statistics**
-- 🤝 I’m looking for jobs in **Data analysis/Finance analysis/Marketing analysis**
+- 🤝 I’m interested in **Data analysis/Finance analysis/Marketing analysis**
 - 💻 My data analytics skills are **SQL, Python, SAS, Power BI, Tableau**
 <h3 align="left">My working experience</h3>
 
@@ -15,7 +15,8 @@
 - Marketing Analyst at Aurum Borealis, a top-tier brand marketing firm specializing in expanding international businesses into the American market
   - Executed **competitive analyses** and **SWOT assessments**, providing insights to inform brand positioning and uncover market opportunities.
   - Developed **data-driven presentations with Excel visuals**, effectively communicating insights to stakeholders and shaping marketing strategies.
-
+- Sales Data Analyst at Kinaxis, a global leader in end-to-end supply chain management software
+  -  Currently exploring automation, data modeling, and cross-functional analytics in a real-world supply chain environment.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kelsey-cui-745715215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kelsey-cui-745715215/" height="30" width="40" /></a>
