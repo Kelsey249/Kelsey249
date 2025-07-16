@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Kelsey Cui :) </h1>
 <h3 align="left">Discover me🤓</h3>
 
-- 🔭 I’m currently **a student at University of Toronto**
-- 👯 I'm studying in **Finance&economics, and statistics**
+- 🔭 I’m **a recent graduat from University of Toronto**
+- 👯 My majors are **Finance&economics, and statistics**
 - 🤝 I’m interested in **Data analysis/Finance analysis/Marketing analysis**
 - 💻 My data analytics skills are **SQL, Python, SAS, Power BI, Tableau**
 <h3 align="left">My working experience</h3>
